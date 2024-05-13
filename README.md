@@ -1,4 +1,4 @@
-- 👋 Hi, I’m tre
+- 👋 Hi, I’m Tre
 - 👀 I’m interested in cpmputers, music and football
 - 🌱 I’m currently learning python, javascript and cpp
 - 💞️ I’m looking to collaborate on more programming project in the realm of data analysis 
