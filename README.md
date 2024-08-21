@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tre.
 - 👀 I’m interested in computers, music and football.
 - 🌱 I’m currently learning julia, python, and javascript.
-- 💞️ I’m looking to collaborate on more programming project in the realm of data analysis.
-- 📫 How to reach me tthomas@ec-intl.com
+- 💞️ I’m looking to collaborate on more programming projects in data analysis and cybersecurity.
+- 📫 How to reach me: tthomas@ec-intl.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a cat person. 
 
